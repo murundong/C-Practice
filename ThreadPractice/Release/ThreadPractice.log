@@ -1,0 +1,3 @@
+﻿  WindowNet.cpp
+WindowNet.obj : error LNK2001: 无法解析的外部符号 _GetIfTable@12
+F:\VC++\Practice\MfcPractice\Release\ThreadPractice.exe : fatal error LNK1120: 1 个无法解析的外部命令
